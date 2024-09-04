@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Gửi crush của tớ",
-    introTitle: 'Crush yêu dấu',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Thoát web là chấp nhận yêu tớ rồi nhé!!!',
-    btnYes: 'Thích lắm <33',
+    titleWeb: "Gửi iem ",
+    introTitle: 'Ngân khùm',
+    introDesc: `Bấm vô đây là m khỏi ra`,
+    btnIntro: 'Bấm tiếp đi',
+    title: 'iem mặt đồ size nào zay =)))',
+    desc: 'Thoát web là ra đường gió cuốn đó',
+    btnYes: 'Trả lờii',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
+    question: 'iem thấy ank dth hong ',
     btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://facebook.com/dinhkaito' //link mess của các bạn. VD: /dinhkaito
+    reply: 'Đẹp zai vcl ank oii',
+    mess: 'Mình biết mà 🥰',
+    messDesc: 'Chúc bủi sáng vui vẻ ',
+    btnAccept: 'Okie lun <3',
+    messLink: 'https://www.facebook.com/duykhang.duongvo' //link mess của các bạn. VD: /dinhkaito
 }
